@@ -15,4 +15,4 @@ The code loads the trained weights and a sample dataset, and predicts the AMD pr
 
 1. unzip weights
 2. Run the Testing_OCT.py from terminal as: python Testing_OCT
-3. And that's it!! It will save the outcome in './outcome/' named as 'Note_level_outcome.csv'
+3. And that's it!! It will predict the outcome and plot the AUC ROC for 3 months and 21 months prediction.
