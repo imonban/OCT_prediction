@@ -1,6 +1,6 @@
-# AMD prediction
+# A Deep-learning Approach for Prognosis of Age-Related Macular Degeneration Disease using SD-OCT Imaging Biomarkers 
 
-The code loads the trained weights and a sample dataset, and predicts the AMD progression. Finally, it computes the preformance as AUC ROC.
+The code loads the trained weights and a sample dataset, and predicts the AMD progression using a longitudinal deep learning model. Finally, it computes the preformance as AUC ROC.
 
 ## Dependencies needed
 
