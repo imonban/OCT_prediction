@@ -20,3 +20,5 @@ The code loads the trained weights and a sample dataset, and predicts the AMD pr
 
 ## Output
 Produce ROC curves over the prediction results - both short and long term progression of AMD.
+
+
